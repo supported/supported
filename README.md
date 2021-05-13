@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 Email Me: dominic@vixaati.xyz
+📫 Email Me: dominic@vixaati.xyz<br>
 🌎 South Carolina, USA
 
 <!--
