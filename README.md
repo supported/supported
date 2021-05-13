@@ -1,4 +1,6 @@
 ### Hi there 👋
+📫 Email Me: dominic@vixaati.xyz
+🌎 South Carolina, USA
 
 <!--
 **supported/supported** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
