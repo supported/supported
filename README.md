@@ -15,7 +15,7 @@ My Name is Devin im 17 i enjoy Coding and Much More!!!
 
 ### Some Highlights:
 
-- 💻 &nbsp; [FiveM DOJRP Chat Look ALike](https://github.com/ilithium0x/doj-chat)
+- 💻 &nbsp; COMMING SOON
 
 
 
